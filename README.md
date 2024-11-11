@@ -27,7 +27,7 @@ This repository contains a machine learning project on customer segmentation usi
 
 ### 2. **Model Development**:
    - **K-Means Clustering** was chosen for this project as it’s a popular unsupervised learning algorithm for segmentation.
-   - The **Elbow Method** and **Silhouette Score** were used to determine the optimal number of clusters.
+   - The **Elbow Method** was used to determine the optimal number of clusters.
 
 ### 3. **Model Evaluation**:
    - After choosing the number of clusters, the model's results were visualized to interpret the distinct customer segments.
@@ -36,12 +36,6 @@ This repository contains a machine learning project on customer segmentation usi
 ### 4. **Conclusion**:
    - The project successfully segmented customers into clusters that can help businesses better understand customer behavior.
    - These insights can be applied in marketing, customer relationship management, and targeted promotions.
-
-## Usage
-
-To run this project:
-1. Open the notebook `Customer_Segmentation_KMeans.ipynb` in Google Colab or Jupyter Notebook.
-2. Execute the cells in order to see the data preprocessing, model training, and cluster visualization steps.
 
 ## Contributing
 
